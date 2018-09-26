@@ -1,0 +1,36 @@
+body{
+  background: rgb(101, 101, 240);
+}
+.container {
+  display: inline;
+}
+.head{
+height: 15vh;
+}
+.middle{
+  height: 70vh;
+  width: 100%;
+  display: inline-flex;
+}
+.foot{
+  height: 15vh;
+}
+
+
+.col-2{
+  width: 40%;
+  height: 70vh;
+}
+.col-6{
+  width: 40%;
+  height: 70vh;
+}
+.contentHidden{
+  display:none;
+  z-index: -1;
+}
+.linkCadastro{
+  
+
+}
+

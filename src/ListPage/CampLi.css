@@ -1,0 +1,34 @@
+li{
+    border: solid 1px;
+    display: inline-block;
+    background: white;
+    padding: 5px;
+}
+.divList{
+    width: 600px;
+}
+.liName{
+    width: 125px;
+    overflow: hidden;
+}
+.liCpf{
+    width: 115px;
+    overflow: hidden;
+}
+.liTelefone{
+    width: 125px;
+    overflow: hidden;
+}
+.liEmail{
+    width: 115px;
+    overflow: hidden;
+}
+.liDel{
+    width: 20px;
+    margin: 5px;
+}
+.liEdit{
+    width: 20px;
+    margin: 5px;
+
+}

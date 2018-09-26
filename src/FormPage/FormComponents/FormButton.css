@@ -1,0 +1,27 @@
+.button:enabled{
+    border-radius: 25px;
+    border: none;
+    background: #00c8b3;
+    color:#ffffff;
+
+}
+.button:disabled{
+    border-radius: 25px;
+    border: none;
+    background: #f6f6f6;
+    color: #dddcdc;
+}
+.button:hover{
+    border-radius: 25px;
+    border: none;
+    background: #00c8b3;
+    color:#ffffff;
+    opacity: 0.7;
+
+}
+.button:disabled{
+    border-radius: 25px;
+    border: none;
+    background: #f6f6f6;
+    color: #dddcdc;
+}
